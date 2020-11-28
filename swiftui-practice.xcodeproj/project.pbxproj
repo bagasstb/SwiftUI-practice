@@ -13,6 +13,7 @@
 		D096D7B32571D39B00BB98DB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D096D7B22571D39B00BB98DB /* Preview Assets.xcassets */; };
 		D096D7BE2571D39B00BB98DB /* swiftui_practiceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D096D7BD2571D39B00BB98DB /* swiftui_practiceTests.swift */; };
 		D096D7C92571D39B00BB98DB /* swiftui_practiceUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D096D7C82571D39B00BB98DB /* swiftui_practiceUITests.swift */; };
+		D096D7DA2571E63100BB98DB /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D096D7D92571E63100BB98DB /* ListView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		D096D7C42571D39B00BB98DB /* swiftui-practiceUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "swiftui-practiceUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D096D7C82571D39B00BB98DB /* swiftui_practiceUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftui_practiceUITests.swift; sourceTree = "<group>"; };
 		D096D7CA2571D39B00BB98DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D096D7D92571E63100BB98DB /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 			children = (
 				D096D7AB2571D39600BB98DB /* swiftui_practiceApp.swift */,
 				D096D7AD2571D39600BB98DB /* ContentView.swift */,
+				D096D7D92571E63100BB98DB /* ListView.swift */,
 				D096D7AF2571D39B00BB98DB /* Assets.xcassets */,
 				D096D7B42571D39B00BB98DB /* Info.plist */,
 				D096D7B12571D39B00BB98DB /* Preview Content */,
@@ -261,6 +264,7 @@
 			files = (
 				D096D7AE2571D39600BB98DB /* ContentView.swift in Sources */,
 				D096D7AC2571D39600BB98DB /* swiftui_practiceApp.swift in Sources */,
+				D096D7DA2571E63100BB98DB /* ListView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
